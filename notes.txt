@@ -1,0 +1,8 @@
+# activate the virtual env
+venv\Scripts\activate
+
+# deactivate
+deactivate
+
+# required packages
+python -m pip inatall flask
